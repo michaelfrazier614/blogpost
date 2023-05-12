@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "title": "Updating the screen ",
+      "id": 1
+    },
+    {
+      "title": "Describing the UI",
+      "category": "Health",
+      "description": "Describing the UIDescribing the UI",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "ahmad@gmail.com",
+      "id": 15
+    }
+  ]
+}
